@@ -653,6 +653,7 @@ body {
 }
 
 .need-help {
+    cursor: pointer;
     background-color: #cdcdcd2f;
     border-radius: 2px;
     color: #efefefdf;
